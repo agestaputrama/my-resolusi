@@ -2,6 +2,10 @@ Rencana game saya
 - bermain role asasin
   * main ling
   * main hc
+   ^ main mid
+   ^ main side gold
 - main fasthand
+  ^ main fany
 - menguasai map
 - main fun
+- main turnamen
