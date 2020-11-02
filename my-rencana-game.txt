@@ -2,5 +2,6 @@ Rencana game saya
 - bermain role asasin
   * main ling
   * main hc
+- main fasthand
 - menguasai map
 - main fun
