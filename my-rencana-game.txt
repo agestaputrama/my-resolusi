@@ -3,6 +3,7 @@ Rencana game saya
   * main ling
   * main hc
    ^ main mid
+   ^ main side gold
 - main fasthand
   ^ main fany
 - menguasai map
